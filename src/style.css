@@ -1,9 +1,13 @@
+@font-face {
+    font-family: 'Segoe UI';
+    src: url(../assets/Segoe\ UI-Regular.ttf);
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI';
-    cursor: url(../assets/middlefinger_cursor.png);
 }
 
 html {
@@ -24,14 +28,15 @@ body,
     color: #fff;
 }
 
-#background{
+#background {
     position: absolute;
     width: 100%;
     height: 100%;
     z-index: 1;
 }
 
-#background iframe{
+#background iframe,
+canvas {
     width: 100%;
     height: 100%;
     border: 0;
