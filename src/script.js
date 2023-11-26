@@ -43,5 +43,5 @@ function pausefunc() {
 }
 
 function audioCtrl() {
-        audio.paused ? audio.play() : audio.pause();
+    audio.paused ? audio.play() : audio.pause();
 }
