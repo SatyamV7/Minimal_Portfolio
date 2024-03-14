@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27px" role="img" viewBox="0 0 24 24" fill="none" stroke="#fff"
+    stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
+    <title>Mail</title>
+    <path
+        d="M4 4C3.07 4 2.29231 4.64291 2.07031 5.50391L12 11.7266L21.9355 5.52148C21.7195 4.65048 20.937 4 20 4H4ZM2 7.73438V18C2 19.103 2.897 20 4 20H20C21.103 20 22 19.103 22 18V7.75586L12 14L2 7.73438Z">
+    </path>
+</svg>

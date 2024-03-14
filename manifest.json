@@ -24,22 +24,15 @@
     "categories": [
         "security"
     ],
-    "screenshots": [
-        {
-            "src": "/assets/images/screenshot-1.png",
-            "sizes": "1280x800",
-            "type": "image/png"
-        }
-    ],
     "icons": [
         {
-            "src": "/assets/512.png",
+            "src": "/assets/manifest/512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "/assets/maskable_icon_x512.jpg",
+            "src": "/assets/manifest/maskable_icon_x512.jpg",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"

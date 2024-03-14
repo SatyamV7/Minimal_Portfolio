@@ -14,7 +14,7 @@ const PRECACHE_URLS = [
     '/src/style.css',
     '/src/script.js',
     '/favicon.ico',
-    '/assets/music.mp3',
+    '/assets/media/music.mp3',
 ];
 
 // The install handler takes care of precaching the resources we always need.
